@@ -5,6 +5,16 @@
 
 A sleek, minimal Home Assistant theme that moves in silence.
 
+## Table of Content
+  - [Screenshots](#screenshots)
+    - [Dashboard Dark](#dashboard-dark)
+    - [Dashboard Light](#dashboard-light)
+    - [Dashboard Mobile Dark/Light](#dashboard-mobile-darklight)
+  - [Installation](#installation)
+    - [HACS](#hacs)
+    - [Manual](#manual)
+
+
 ## Screenshots
 
 ### Dashboard Dark
