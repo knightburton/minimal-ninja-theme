@@ -1,0 +1,60 @@
+Minimal Ninja:
+  # header
+  app-header-background-color: color-mix(in srgb, var(--primary-background-color), transparent 50%)
+  app-header-edit-background-color: color-mix(in srgb, var(--primary-background-color), transparent 50%)
+  app-header-backdrop-filter: blur(6px)
+  app-header-text-color: var(--primary-text-color)
+  app-header-edit-text-color: var(--primary-text-color)
+  app-header-border-bottom: none
+  mdc-top-app-bar-fixed-box-shadow: none
+
+  # sidebar
+  sidebar-background-color: var(--primary-background-color)
+  sidebar-menu-button-background-color: var(--primary-background-color)
+  sidebar-menu-border-bottom: none
+  paper-listbox-background-color: var(--primary-background-color)
+
+  # card
+  ha-card-border-width: 0
+  ha-card-border-radius: 12px
+  ha-card-border-color: none
+
+  # color
+  primary-color: "#00A76F"
+  dark-primary-color: "#007867"
+  light-primary-color: "#5BE49B"
+  accent-color: "#FFAB00"
+  divider-color: rgba(145, 158, 171, 0.2)
+
+  error-color: "#FF5630"
+  warning-color: "#FFAB00"
+  success-color: "#22C55E"
+  info-color: "#00B8D9"
+
+  modes:
+    light:
+      # mushroom
+      mush-rgb-disabled: 189, 189, 189
+      # card
+      ha-card-box-shadow: 0 1px 2px 0 rgba(145, 158, 171, 0.16)
+      # text color
+      primary-text-color: "#1C252E"
+      secondary-text-color: "#637381"
+      disabled-text-color: "#919EAB"
+      # bg color
+      card-background-color: "#ffffff"
+      primary-background-color: "#F4F6F8"
+      secondary-background-color: "#F4F6F8"
+    dark:
+      # mushroom
+      mush-rgb-disabled: 111, 111, 111
+      # card
+      ha-card-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.16)
+      # text color
+      primary-text-color: "#ffffff"
+      secondary-text-color: "#919EAB"
+      disabled-text-color: "#637381"
+      # bg color
+      card-background-color: "#1C252E"
+      primary-background-color: "#141A21"
+      secondary-background-color: "#28323D"
