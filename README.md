@@ -1,6 +1,7 @@
 # Minimal Ninja Theme
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
+[![Validate](https://github.com/knightburton/minimal-ninja-theme/actions/workflows/validate.yaml/badge.svg)](https://github.com/knightburton/minimal-ninja-theme/actions/workflows/validate.yaml)
 
 A sleek, minimal Home Assistant theme that moves in silence.
 
