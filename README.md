@@ -7,6 +7,7 @@ A sleek, minimal Home Assistant theme that moves in silence.
 
 ## Table of Content
 
+- [Features](#features)
 - [Screenshots](#screenshots)
   - [Dashboard Dark](#dashboard-dark)
   - [Dashboard Light](#dashboard-light)
@@ -14,6 +15,14 @@ A sleek, minimal Home Assistant theme that moves in silence.
 - [Installation](#installation)
   - [HACS](#hacs)
   - [Manual](#manual)
+
+## Features
+- Light and Dark mode
+- Minimal changes based on the default theme
+- Bare contrast between the background and cards
+- Tasteful amount of card shadows
+- Blurred header in case of content overflow
+- Integrate sidebar color
 
 ## Screenshots
 
