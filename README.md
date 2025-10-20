@@ -23,6 +23,8 @@ A sleek, minimal Home Assistant theme that moves in silence.
 - Tasteful amount of card shadows
 - Blurred header in case of content overflow
 - Integrate sidebar color
+- disabled sidebar menu title bottom border
+- disabled active tab underline color
 
 ## Screenshots
 
@@ -45,6 +47,13 @@ A sleek, minimal Home Assistant theme that moves in silence.
   <img width="412" alt="mobile-light" src="https://github.com/user-attachments/assets/6fdf7dae-338b-4193-8080-dc1844ded2c7" />
 </p>
 
+## Prerequisites
+In order to disable
+- the sidebar menu title bottom border
+- active tab underline color
+
+install [card-mod](https://github.com/thomasloven/lovelace-card-mod) HACS addon as well.
+
 ## Installation
 
 Add the following code to your `configuration.yaml` file (reboot required).
@@ -62,6 +71,7 @@ frontend:
 2. Search for `Minimal Ninja`.
 3. Navigate to `Minimal Ninja` theme.
 4. Press `Download`.
+5. (Optional) install [card-mod](https://github.com/thomasloven/lovelace-card-mod)
 
 ### Manual
 
