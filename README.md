@@ -31,20 +31,20 @@ A sleek, minimal Home Assistant theme that moves in silence.
 ### Dashboard Dark
 
 <p align="center">
-  <img width="830" alt="dashboard-dark" src="https://github.com/user-attachments/assets/ac067370-823d-46b9-ae72-9593559f23d6" />
+  <img width="830"alt="dashboard-dark" src="https://github.com/user-attachments/assets/9563bc7b-b0eb-49f2-8f31-406f6deb6f17" />
 </p>
 
 ### Dashboard Light
 
 <p align="center">
-  <img width="830" alt="dashboard-light" src="https://github.com/user-attachments/assets/c39946d5-368e-4e6c-9aea-c4c143683e62" />
+  <img width="830" alt="dashboard-light" src="https://github.com/user-attachments/assets/801e25f9-a538-4032-8e56-3bc2dbe56ebe" />
 </p>
 
 ### Dashboard Mobile Dark/Light
 
 <p align="center">
-  <img width="412" alt="mobile-dark" src="https://github.com/user-attachments/assets/c7cc5b74-86ae-4054-86eb-e28f589b044d" />
-  <img width="412" alt="mobile-light" src="https://github.com/user-attachments/assets/6fdf7dae-338b-4193-8080-dc1844ded2c7" />
+  <img width="412" alt="mobile-dark" src="https://github.com/user-attachments/assets/9fc2a1a8-20fe-47ef-b45f-5bd5fa911498" />
+  <img width="412" alt="mobile-light" src="https://github.com/user-attachments/assets/1f2da206-f942-4860-9110-ef15776312b8" />
 </p>
 
 ## Prerequisites
