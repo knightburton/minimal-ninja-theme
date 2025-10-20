@@ -1,4 +1,19 @@
 Minimal Ninja:
+  # card-mod
+  card-mod-theme: Minimal Ninja
+  card-mod-root-yaml: |
+    .: |
+      ha-tab-group {
+        --ha-tab-indicator-color: transparent !important;
+        --ha-tab-active-text-color: inherit !important;
+      }
+  card-mod-sidebar: |
+    :host {
+      .menu {
+        border-bottom: none;
+      }
+    }
+
   # header
   app-header-background-color: color-mix(in srgb, var(--primary-background-color), transparent 50%)
   app-header-edit-background-color: color-mix(in srgb, var(--primary-background-color), transparent 50%)
